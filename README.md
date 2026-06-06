@@ -46,6 +46,15 @@ Durante el desarrollo del proyecto se utilizó ChatGPT como herramienta de apoyo
 
 Todo el código fue revisado, adaptado y comprendido antes de incorporarlo al proyecto.
 
+## Versión
+
+Versión 1.0 publicada en GitHub.
+
+## Repositorio
+
+Repositorio disponible en GitHub para revisión académica y control de versiones del proyecto.
+
+
 ## Estado del Proyecto
 
 Proyecto finalizado y publicado en GitHub.
