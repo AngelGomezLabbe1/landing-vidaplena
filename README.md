@@ -45,3 +45,7 @@ Durante el desarrollo del proyecto se utilizó ChatGPT como herramienta de apoyo
 * Incorporar diseño responsive mediante media queries.
 
 Todo el código fue revisado, adaptado y comprendido antes de incorporarlo al proyecto.
+
+## Estado del Proyecto
+
+Proyecto finalizado y publicado en GitHub.
