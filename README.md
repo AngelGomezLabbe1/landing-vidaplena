@@ -36,15 +36,22 @@ Angel Gomez Labbe
 
 ## Uso de Inteligencia Artificial
 
-Durante el desarrollo del proyecto se utilizó ChatGPT como herramienta de apoyo para:
+## Uso de Inteligencia Artificial
 
-* Resolver dudas sobre HTML5 y CSS3.
-* Mejorar la estructura semántica.
-* Implementar estilos CSS.
-* Aplicar buenas prácticas de accesibilidad.
-* Incorporar diseño responsive mediante media queries.
+Durante el desarrollo de este proyecto se utilizó ChatGPT como herramienta de apoyo para resolver dudas técnicas relacionadas con HTML5, CSS3, Git y GitHub.
 
-Todo el código fue revisado, adaptado y comprendido antes de incorporarlo al proyecto.
+Algunos ejemplos de prompts utilizados fueron:
+
+* "¿Cómo crear una estructura básica de una Landing Page utilizando HTML5?"
+* "¿Cómo aplicar estilos CSS para mejorar la presentación de una página web?"
+* "¿Cómo implementar un diseño responsive utilizando media queries?"
+* "¿Cómo subir un proyecto a GitHub utilizando Git y Visual Studio Code?"
+* "¿Cómo organizar correctamente la estructura de carpetas de un proyecto web?"
+
+La información obtenida fue utilizada únicamente como guía de aprendizaje y apoyo técnico. Todo el código fue revisado, adaptado y modificado según los requerimientos específicos del proyecto VidaPlena SpA.
+
+Además, se realizaron cambios propios en la estructura HTML, los estilos CSS, la incorporación de imágenes, la personalización de colores, la organización del formulario de contacto y la documentación del proyecto mediante README.md.
+
 
 ## Versión
 
